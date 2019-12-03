@@ -34,7 +34,7 @@
   flex-wrap:wrap;
 } */
 
-body {
+.post-header {
   background-image: url('images/background.png');
   background-attachment: fixed;
 }
